@@ -13,6 +13,9 @@ import java.util.List;
 public class WebTableTest {
     public WebDriver driver;
 
+
+
+
     @Test
     public void automationMethod() {
         //deschidem un browser de chrome

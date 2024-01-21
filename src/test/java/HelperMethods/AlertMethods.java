@@ -20,6 +20,7 @@ public class AlertMethods {
 
     }
 
+
     public void explicitAlertWait(){
         //definim un wait explicit ca sa astepte dupa alerta
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
